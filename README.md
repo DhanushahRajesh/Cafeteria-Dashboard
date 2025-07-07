@@ -38,26 +38,19 @@ The Brew & Bite café aims to analyze its daily sales performance using an inter
 
 ## Dashboard Creation Process
 
--Prepare the Dataset – Clean and format your orders and product files to ensure consistent structure and valid data types.
+## 🚀 Dashboard Creation Process
 
--Load into Power BI – Import all CSV/Excel files using Get Data and open Power Query to transform if needed.
+- **Prepare the Dataset** – Clean and format your orders and product files to ensure consistent structure and valid data types.
+- **Load into Power BI** – Import all CSV/Excel files using Get Data and open Power Query to transform if needed.
+- **Build Data Model** – Create relationships between tables (e.g., Order Date, Product ID) and generate a Date table using DAX.
+- **Create DAX Measures** – Write calculated measures for KPIs like Total Revenue, Orders, Quantity, AOV, and Moving Averages.
+- **Design Overview Page** – Add KPI cards, bar charts, line charts, pie charts, and weekday comparisons for a high-level summary.
+- **Design Revenue Page** – Visualize trends, weekday performance, and moving averages to monitor financial growth.
+- **Design Quantity Page** – Track item sales volume by weekday, product, and week start, including scatter and trend visuals.
+- **Design Orders Page** – Analyze product pairings, order combinations, hourly volumes, and Chaii-based order behaviors.
+- **Add Slicers & Filters** – Insert slicers for Month, Weekday, and Product to enable interactive filtering across pages.
+- **Format & Style** – Apply a clean visual theme, align visuals properly, and use custom fonts, logos, and consistent colors.
+- **Publish Dashboard** – Save and optionally publish to Power BI Service or share via Teams, SharePoint, or PDF export.
 
--Build Data Model – Create relationships between tables (e.g., Order Date, Product ID) and generate a Date table using DAX.
-
--Create DAX Measures – Write calculated measures for KPIs like Total Revenue, Orders, Quantity, AOV, and Moving Averages.
-
--Design Overview Page – Add KPI cards, bar charts, line charts, pie charts, and weekday comparisons for a high-level summary.
-
--Design Revenue Page – Visualize trends, weekday performance, and moving averages to monitor financial growth.
-
--Design Quantity Page – Track item sales volume by weekday, product, and week start, including scatter and trend visuals.
-
--Design Orders Page – Analyze product pairings, order combinations, hourly volumes, and Chaii-based order behaviors.
-
--Add Slicers & Filters – Insert slicers for Month, Weekday, and Product to enable interactive filtering across pages.
-
--Format & Style – Apply a clean visual theme, align visuals properly, and use custom fonts, logos, and consistent colors.
-
--Publish Dashboard – Save and optionally publish to Power BI Service or share via Teams, SharePoint, or PDF export.
 
 
