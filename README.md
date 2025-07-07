@@ -34,7 +34,7 @@ The Brew & Bite café aims to analyze its daily sales performance using an inter
 - At what time of day are orders most frequently placed?
 - What is the difference in product orders with vs without Chaii?
 
--Dashboard Interaction <a href="https://github.com/DhanushahRajesh/Cafeteria-Dashboard/blob/main/cafeteria.pbix">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/DhanushahRajesh/Cafeteria-Dashboard/blob/main/cafeteria.pbix">View Dashboard</a>
 
 ## Dashboard Creation Process
 
