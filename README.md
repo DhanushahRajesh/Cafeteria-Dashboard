@@ -5,4 +5,5 @@ The Brew & Bite café aims to analyze its daily sales performance using an inter
 
 ## Dataset Used
 
-- <a href="https://github.com/DhanushahRajesh/Cafeteria-Dashboard/blob/main/order_2%20(1).csv">Dataset</a>
+- <a href="https://github.com/DhanushahRajesh/Cafeteria-Dashboard/blob/main/order_2%20(1).csv">Orders</a>
+- <a href="https://github.com/DhanushahRajesh/Cafeteria-Dashboard/blob/main/product.csv">Products</a>
