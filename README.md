@@ -38,8 +38,6 @@ The Brew & Bite café aims to analyze its daily sales performance using an inter
 
 ## Dashboard Creation Process
 
-## 🚀 Dashboard Creation Process
-
 - **Prepare the Dataset** – Clean and format your orders and product files to ensure consistent structure and valid data types.
 - **Load into Power BI** – Import all CSV/Excel files using Get Data and open Power Query to transform if needed.
 - **Build Data Model** – Create relationships between tables (e.g., Order Date, Product ID) and generate a Date table using DAX.
