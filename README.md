@@ -50,5 +50,16 @@ The Brew & Bite café aims to analyze its daily sales performance using an inter
 - **Format & Style** – Apply a clean visual theme, align visuals properly, and use custom fonts, logos, and consistent colors.
 - **Publish Dashboard** – Save and optionally publish to Power BI Service or share via Teams, SharePoint, or PDF export.
 
+##Dashboard
+
+![overview](https://github.com/user-attachments/assets/0e84efc8-323a-4ca3-99ca-86b8168d3fcb)
+![revenue](https://github.com/user-attachments/assets/cc971b35-e715-4b73-9525-3c228ac2b32a)
+![quantity](https://github.com/user-attachments/assets/2081f3ed-5d7e-4c57-b665-2b8d1cdbd0c0)
+![orders](https://github.com/user-attachments/assets/9810c502-6c92-43e9-af84-e9f3a2381467)
+
+
+
+
+
 
 
