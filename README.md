@@ -1,2 +1,3 @@
-# Cafeteria-Dashboard
-An easy-to-use Power BI dashboard that helps you explore how a café is doing — from what’s selling the most, to when customers are ordering, and which items go best together. It breaks down sales, revenue, and product trends in a clear, visual way, making it simple to spot patterns and make smarter decisions for any food or beverage business.
+#Cafeteria-Dashboard
+##Project Objective
+The objective of this project is to design an interactive Power BI dashboard that provides a comprehensive view of Brew & Bite’s sales performance. The dashboard aims to track key business metrics such as total revenue, order volume, top-selling products, and customer ordering patterns across weekdays and time slots. By visualizing this data, the goal is to uncover actionable insights that support better decision-making around menu optimization, promotional strategies, and operational efficiency.
